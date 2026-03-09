@@ -4,7 +4,7 @@ I’m a **full-stack developer** passionate about building **scalable, practical
 I mainly work with **Java Spring Boot, React.js, and MySQL**, focusing on **clean architecture, backend development, and system design**.  
 
 I enjoy solving **real-world problems**, experimenting with **AI integration**, and exploring **modern web technologies**.  
-Always learning, building, and improving through hands-on projects. 🚀
+Always learning, building, and improving through hands-on projects. 
 
 ---
 
@@ -16,9 +16,7 @@ Always learning, building, and improving through hands-on projects. 🚀
   <a href="https://github.com/saurav73">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=glow" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge&animation=glow" />
-  </a>
+
 </p>
 
 ---
