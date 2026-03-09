@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there! 👋<br>
+Hi there! <br>
 I’m a **full-stack developer** passionate about building **scalable, practical, and efficient web applications**.  
 I mainly work with **Java Spring Boot, React.js, and MySQL**, focusing on **clean architecture, backend development, and system design**.  
 
@@ -15,6 +15,9 @@ Always learning, building, and improving through hands-on projects. 🚀
   </a>
   <a href="https://github.com/saurav73">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=glow" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge&animation=glow" />
   </a>
 </p>
 
@@ -72,7 +75,7 @@ Always learning, building, and improving through hands-on projects. 🚀
 
 ## 🤖 AI Assistant
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww4l0zQviA/giphy.gif" width="150" />
+  <img src="assets/ai-assistant.gif" width="150"/>
 </p>
 
 ---
@@ -93,7 +96,7 @@ Always learning, building, and improving through hands-on projects. 🚀
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav73&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&theme=dark&layout=compact" />
 </p>
 
