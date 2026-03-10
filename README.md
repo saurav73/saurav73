@@ -76,12 +76,6 @@ Always learning, building, and improving through hands-on projects.
   <img src="assets/ai-assistant.gif" width="150"/>
 </p>
 
----
-
-## ✨ Fun Zone: Random Developer Jokes
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
-</p>
 
 ---
 
@@ -92,19 +86,5 @@ Always learning, building, and improving through hands-on projects.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&theme=dark&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurav73&theme=radical&no-bg=true&margin-w=4" />
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=saurav73&icon=0&color=0)](https://visitcount.itsvg.in)
