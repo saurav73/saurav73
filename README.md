@@ -69,13 +69,6 @@ Always learning, building, and improving through hands-on projects.
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white&animation=spin" />
 </p>
 
----
-
-## 🤖 AI Assistant
-<p align="center">
-  <img src="assets/ai-assistant.gif" width="150"/>
-</p>
-
 
 ---
 
