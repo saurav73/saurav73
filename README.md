@@ -9,6 +9,17 @@ Always learning, building, and improving through hands-on projects.
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Live link | What it is |
+|---|---|---|
+| **TakeHomeCalc** | [takehomecalc-saurav73s-projects.vercel.app](https://takehomecalc-saurav73s-projects.vercel.app) | US salary & tax calculators — 2026 federal/state figures, 1,596 pages |
+| **ArthaCalc** | [arthacalc-saurav73s-projects.vercel.app](https://arthacalc-saurav73s-projects.vercel.app) | 33 financial calculators incl. Nepal income tax FY 2083/84 |
+| **AbroadCalc** | [abroadcalc-saurav73s-projects.vercel.app](https://abroadcalc-saurav73s-projects.vercel.app) | 28 study-abroad & immigration tools (CRS, IELTS, SkillSelect) |
+| **TicketSewa** | [github.com/saurav73/TicketSewa](https://github.com/saurav73/TicketSewa) | Event ticketing platform |
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/">
