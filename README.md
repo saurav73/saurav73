@@ -22,6 +22,17 @@ Always learning, building, and improving through hands-on projects.
 
 ---
 
+## 📺 Content Creation
+
+I also run two YouTube channels, fully automated from script to upload:
+
+| Channel | Focus |
+|---|---|
+| [OVERRIDE](https://www.youtube.com/@overrideway) | Power, money and knowledge: the 48 Laws of Power series, quotes and explainers |
+| [Pippy Kids TV](https://www.youtube.com/@PippyKidsTV) | Original songs, ABC/123 learning and story time for ages 2-5 |
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/">
