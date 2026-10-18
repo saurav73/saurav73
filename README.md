@@ -25,7 +25,7 @@ I also run two YouTube channels, fully automated from script to upload:
 
 | Channel | Focus |
 |---|---|
-| [OVERRIDE](https://www.youtube.com/@overrideway) | Power, money and knowledge: the 48 Laws of Power series, quotes and explainers |
+| [OVERRIDE](https://www.youtube.com/@overrideway) | Power and knowledge: the 48 Laws of Power series, quotes and explainers |
 | [Pippy Kids TV](https://www.youtube.com/@PippyKidsTV) | Original songs, ABC/123 learning and story time for ages 2-5 |
 
 ---
