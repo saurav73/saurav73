@@ -2,6 +2,9 @@
 
 Dated history of changes to this profile page.
 
+## 2026-10-22
+- Added ToolNest to Featured Projects with its live link (current main focus)
+
 ## 2026-10-20
 - Added Instagram (@wayoverride) and TikTok buttons to the Connect with Me section
 
