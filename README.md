@@ -14,20 +14,6 @@ Always learning, building, and improving through hands-on projects.
 | Project | Live link | What it is |
 |---|---|---|
 | **ToolNest** | [toolnest-sage.vercel.app](https://toolnest-sage.vercel.app) | Free online tools: PDF, image, QR and text utilities (currently my main focus) |
-| **Free Movies** | [freemovies-iota.vercel.app](https://freemovies-iota.vercel.app) | Legal movie & TV discovery, Netflix-style browsing, trailers, where-to-watch |
-| **TicketSewa** | [github.com/saurav73/TicketSewa](https://github.com/saurav73/TicketSewa) | Event ticketing platform |
-| **Hand of Mercy Nepal** | [handofmercy.vercel.app](https://handofmercy.vercel.app) | Website for a Bungamati nonprofit giving free tuition to children |
-
----
-
-## 📺 Content Creation
-
-I also run two YouTube channels, fully automated from script to upload:
-
-| Channel | Focus |
-|---|---|
-| [OVERRIDE](https://www.youtube.com/@overrideway) | Power and knowledge: the 48 Laws of Power series, quotes and explainers |
-| [Pippy Kids TV](https://www.youtube.com/@PippyKidsTV) | Original songs, ABC/123 learning and story time for ages 2-5 |
 
 ---
 
