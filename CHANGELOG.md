@@ -2,6 +2,10 @@
 
 Dated history of changes to this profile page.
 
+## 2026-10-24
+- Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
+- Re-verified the showcase ban: no calculator projects (TakeHomeCalc, ArthaCalc, AbroadCalc) on the profile page
+
 ## 2026-10-23
 - Verified every Featured Projects link returns 200 (ToolNest, Free Movies, TicketSewa repo, handofmercy.vercel.app) and both YouTube channels + TikTok + Instagram resolve; the daily-dev-quote badge API is up
 - Re-verified the showcase ban: no calculator projects (TakeHomeCalc, ArthaCalc, AbroadCalc) anywhere on the profile page
