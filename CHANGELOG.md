@@ -2,6 +2,11 @@
 
 Dated history of changes to this profile page.
 
+## 2026-10-25
+- Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
+- Re-verified the showcase ban: no calculator projects (TakeHomeCalc, ArthaCalc, AbroadCalc) on the profile page
+- Re-verified the Connect buttons against the portfolio: LinkedIn (`saurav-shrestha-182988251`) and Instagram (`wayoverride`) URLs match the portfolio site exactly
+
 ## 2026-10-24
 - Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
 - Re-verified the showcase ban: no calculator projects (TakeHomeCalc, ArthaCalc, AbroadCalc) on the profile page
