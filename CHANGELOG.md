@@ -2,6 +2,12 @@
 
 Dated history of changes to this profile page.
 
+
+## 2026-10-28
+- ToolNest description broadened: it now covers developer utilities too (Regex Tester, Hash Generator, UUID Generator, Color Picker, JSON Formatter), not just PDF, image, QR and text tools
+- Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
+- Re-verified the showcase ban: no calculator projects on the profile page
+
 ## 2026-10-27
 - Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
 - Re-verified the showcase ban: no calculator projects (TakeHomeCalc, ArthaCalc, AbroadCalc) on the profile page
