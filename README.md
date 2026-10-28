@@ -13,7 +13,7 @@ Always learning, building, and improving through hands-on projects.
 
 | Project | Live link | What it is |
 |---|---|---|
-| **ToolNest** | [toolnest-sage.vercel.app](https://toolnest-sage.vercel.app) | Free online tools: PDF, image, QR and text utilities (currently my main focus) |
+| **ToolNest** | [toolnest-sage.vercel.app](https://toolnest-sage.vercel.app) | Free online tools: PDF, image, QR, text and developer utilities (currently my main focus) |
 
 ---
 
