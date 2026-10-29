@@ -3,6 +3,11 @@
 Dated history of changes to this profile page.
 
 
+## 2026-10-29
+- ToolNest description now notes it is free, no sign-up, and runs in your browser, matching ToolNest's own homepage FAQ copy
+- Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
+- Re-verified the showcase ban: no calculator projects on the profile page
+
 ## 2026-10-28
 - ToolNest description broadened: it now covers developer utilities too (Regex Tester, Hash Generator, UUID Generator, Color Picker, JSON Formatter), not just PDF, image, QR and text tools
 - Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
