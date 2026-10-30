@@ -3,6 +3,10 @@
 Dated history of changes to this profile page.
 
 
+## 2026-10-30
+- README: Featured Projects now links the ToolNest source repo alongside the live site
+- Re-verified the profile rules: Featured Projects contains only ToolNest, and there is no Content Creation section
+
 ## 2026-10-29
 - ToolNest description now notes it is free, no sign-up, and runs in your browser, matching ToolNest's own homepage FAQ copy
 - Re-verified the GitHub Profile Rule still holds: Featured Projects contains ONLY ToolNest; no Content Creation section anywhere
