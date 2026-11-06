@@ -1,19 +1,9 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/amon-banner.jpg" alt="Amon, the God of Error - dark anime banner with a gold monocle and glowing runes" width="100%"/>
-
-<br/><br/>
-
-<img src="./assets/chibi-dance.gif" alt="Chibi Amon dancing with golden runes" width="260"/>
-
-<br/><br/>
-
-<img src="./assets/amon-avatar.jpg" alt="Amon, the God of Error - gold monocle portrait" width="220"/>
+<img src="./assets/hero.svg?v=3" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, chibi Amon dancing in a camera viewfinder" width="100%"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4A017&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Walking+the+Error+Pathway;Every+bug+is+a+feature+in+disguise" alt="Typing animation: Full-Stack Developer, Walking the Error Pathway, Every bug is a feature in disguise" />
 
 <p>
   <b>God of Error arc</b> · inspired by Amon from <i>Lord of the Mysteries</i> · monocle on, bugs beware
@@ -32,12 +22,12 @@
 <br/><br/>
 
 <!-- ERROR ARSENAL -->
-<img src="./assets/error-arsenal.svg?v=1" alt="Error arsenal - my tech stack" width="100%"/>
+<img src="./assets/stack.svg?v=1" alt="Error arsenal - tech stack orbit" width="100%"/>
 
 <br/><br/>
 
-<!-- ERROR REGISTRATION + LIVE STATS -->
-<img src="./assets/error-id.svg?v=1" alt="Error registration card" width="100%"/>
+<!-- ERROR REGISTRATION + DASHBOARD -->
+<img src="./assets/id-dashboard.svg?v=1" alt="Error registration ID badge and dashboard" width="100%"/>
 
 <br/>
 
@@ -75,7 +65,7 @@
 <br/><br/>
 
 <!-- JOIN THE ERROR PATHWAY -->
-<img src="./assets/connect.svg?v=1" alt="Join the Error Pathway - Let's connect" width="100%"/>
+<img src="./assets/connect.svg?v=2" alt="Join the Error Pathway - Let's connect" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/"><img src="https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/wayoverride/"><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
@@ -101,4 +91,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are Amon banner hero, chibi dance GIF, Amon avatar, typing line, About, Error Way, Error Arsenal, Error Registration + live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are video hero (chibi dance inside hero.svg), About, Error Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
