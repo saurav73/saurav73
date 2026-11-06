@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/hero.svg?v=1" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer" width="100%"/>
+<img src="./assets/amon-banner.jpg" alt="Amon, the God of Error - dark anime banner with a gold monocle and glowing runes" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/chibi-dance.gif" alt="Chibi Amon dancing with golden runes" width="260"/>
 
 <br/><br/>
 
@@ -86,8 +90,12 @@
 
 <br/>
 
+<img src="./assets/chibi-walk.gif" alt="Chibi Amon walking with golden runes" width="160"/>
+
+<br/>
+
 **The error was never the end.**
 
 </div>
 
-<!-- Maintainer note: profile contents are hero SVG, Amon avatar, typing line, About, Error Way, Error Arsenal, Error Registration + live stats, one S-Rank Mission (ToolNest), 3D contribution village, Connect badges, visitor counter, Daily Dev Quote, sign-off. S-Rank Missions stays ToolNest-only; no Content Creation section. -->
+<!-- Maintainer note: profile contents are Amon banner hero, chibi dance GIF, Amon avatar, typing line, About, Error Way, Error Arsenal, Error Registration + live stats, one S-Rank Mission (ToolNest), 3D contribution village, Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions stays ToolNest-only; no Content Creation section. -->
