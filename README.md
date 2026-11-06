@@ -42,4 +42,7 @@ Always learning, building, and improving through hands-on projects.
 </p>
 
 ---
+<!-- Maintainer note: profile contents are About, one Featured Project (ToolNest), four Connect links (LinkedIn, Instagram, GitHub, TikTok), and a Daily Dev Quote widget — counted from this README. Featured Projects stays ToolNest-only; no Content Creation section. -->
+
+---
 
