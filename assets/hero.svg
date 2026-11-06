@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="goldFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D4A017" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#D4A017" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="318" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="12"/>
+  <rect x="28" y="288" width="420" height="3" fill="url(#goldFade)"/>
+  <g fill="none" stroke="#D4A017" stroke-width="2">
+    <circle cx="1060" cy="150" r="72" stroke-opacity="0.9"/>
+    <circle cx="1060" cy="150" r="48" stroke-opacity="0.5"/>
+    <path d="M 1060 222 L 1060 290" stroke-opacity="0.6"/>
+    <circle cx="1060" cy="296" r="5" fill="#D4A017" stroke="none"/>
+  </g>
+  <g fill="#D4A017">
+    <g opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="4s" repeatCount="indefinite"/>
+      <rect x="880" y="60" width="12" height="12" transform="rotate(45 886 66)"/>
+      <rect x="920" y="230" width="9" height="9" transform="rotate(45 924 234)"/>
+      <circle cx="980" cy="90" r="5"/>
+      <rect x="700" y="40" width="8" height="8" transform="rotate(45 704 44)"/>
+    </g>
+    <g opacity="0.4">
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="5s" repeatCount="indefinite"/>
+      <rect x="60" y="60" width="10" height="10" transform="rotate(45 65 65)"/>
+      <circle cx="120" cy="250" r="4"/>
+      <rect x="940" y="150" width="7" height="7" transform="rotate(45 943 153)"/>
+    </g>
+  </g>
+  <text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F0F6FC">Hi, I&#39;m Saurav Shrestha</text>
+  <text x="70" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#D4A017">Full-Stack Developer</text>
+  <text x="70" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#8B949E">God of Error arc &#183; Lord of the Mysteries</text>
+</svg>

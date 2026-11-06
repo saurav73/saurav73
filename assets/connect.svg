@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+  <rect width="1200" height="160" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="158" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="12"/>
+  <text x="600" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#D4A017" text-anchor="middle">Join the Error Pathway</text>
+  <text x="600" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#8B949E" text-anchor="middle">Let&#39;s connect</text>
+  <g fill="#D4A017">
+    <rect x="120" y="72" width="10" height="10" transform="rotate(45 125 77)"/>
+    <rect x="1070" y="72" width="10" height="10" transform="rotate(45 1075 77)"/>
+  </g>
+</svg>

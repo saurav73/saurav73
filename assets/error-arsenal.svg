@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="12"/>
+  <text x="70" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#D4A017">Error Arsenal</text>
+  <rect x="70" y="84" width="220" height="3" fill="#D4A017"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#E6EDF3" text-anchor="middle">
+    <g>
+      <rect x="70" y="120" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="190" y="156">Java</text>
+      <rect x="340" y="120" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="460" y="156">Spring Boot</text>
+      <rect x="610" y="120" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="730" y="156">React</text>
+      <rect x="880" y="120" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="1000" y="156">MySQL</text>
+    </g>
+    <g>
+      <rect x="70" y="200" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="190" y="236">JavaScript</text>
+      <rect x="340" y="200" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="460" y="236">HTML</text>
+      <rect x="610" y="200" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="730" y="236">CSS</text>
+      <rect x="880" y="200" width="240" height="56" rx="28" fill="#161B22" stroke="#D4A017" stroke-width="2"/>
+      <text x="1000" y="236">Git</text>
+    </g>
+  </g>
+</svg>
