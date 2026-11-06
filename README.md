@@ -57,6 +57,9 @@
 <table>
 <tr><th>Mission</th><th>What it is</th><th>Error arts used</th><th align="center">Stars</th></tr>
 <tr><td><a href="https://github.com/saurav73/ToolNest"><b>ToolNest</b></a></td><td>Free online tools: PDF, image, QR, text and developer utilities, free, no sign-up, runs in your browser (currently my main focus) · <a href="https://toolnest-sage.vercel.app">live site</a></td><td><code>React</code> <code>JavaScript</code></td><td align="center"><a href="https://github.com/saurav73/ToolNest/stargazers"><img src="https://img.shields.io/github/stars/saurav73/ToolNest?style=social" alt="ToolNest stars"/></a></td></tr>
+<tr><td><a href="https://github.com/saurav73/GrihaMate"><b>GrihaMate</b></a></td><td>Connects room seekers with landlords and their available rooms, with AI property search</td><td><code>React</code> <code>TypeScript</code> <code>Spring Boot</code></td><td align="center"><a href="https://github.com/saurav73/GrihaMate/stargazers"><img src="https://img.shields.io/github/stars/saurav73/GrihaMate?style=social" alt="GrihaMate stars"/></a></td></tr>
+<tr><td><a href="https://github.com/saurav73/BookBridge"><b>BookBridge</b></a></td><td>Book exchange for students: buy, sell and exchange second-hand books, with real-time chat</td><td><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code></td><td align="center"><a href="https://github.com/saurav73/BookBridge/stargazers"><img src="https://img.shields.io/github/stars/saurav73/BookBridge?style=social" alt="BookBridge stars"/></a></td></tr>
+<tr><td><a href="https://github.com/saurav73/KavyaSetu"><b>Poem Sansar</b></a></td><td>Poem sharing (KavyaSetu): poets publish poems, keep drafts private, browse the public feed</td><td><code>PHP</code> <code>Laravel</code></td><td align="center"><a href="https://github.com/saurav73/KavyaSetu/stargazers"><img src="https://img.shields.io/github/stars/saurav73/KavyaSetu?style=social" alt="Poem Sansar stars"/></a></td></tr>
 </table>
 
 <div align="center">
@@ -98,4 +101,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are Amon banner hero, chibi dance GIF, Amon avatar, typing line, About, Error Way, Error Arsenal, Error Registration + live stats, one S-Rank Mission (ToolNest), 3D contribution village, Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions stays ToolNest-only; no Content Creation section. -->
+<!-- Maintainer note: profile contents are Amon banner hero, chibi dance GIF, Amon avatar, typing line, About, Error Way, Error Arsenal, Error Registration + live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
