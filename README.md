@@ -17,9 +17,6 @@
 <img src="./assets/fool-way.svg?v=10" alt="Engineering Edge - what I build" width="100%"/>
 <!-- TECH STACK -->
 <img src="./assets/stack.svg?v=13" alt="Tech stack" width="100%"/>
-
-<br/><br/>
-
 <!-- FOOL'S REGISTRATION (ID BADGE) -->
 <img src="./assets/tarot-hanging.svg?v=4" alt="The Fool tarot card hanging from an ornate antique gold chain - Saurav Shrestha" width="320"/>
 

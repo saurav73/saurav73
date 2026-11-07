@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- Chain connected to the card above on Saurav's order: the two line breaks between the Tech Stack card and the hanging chain are gone, so the chain starts right at the bottom edge of the Tech Stack card with no gap
 - Card titles unified on Saurav's order (size and color did not match): all three titles are now font-size 40 in gold #D4A017 — the About title was 28 and the Tech Stack title was parchment white
 - Tarot card now hangs from a matching ornate antique gold chain on Saurav's order: a photorealistic gold-bronze chain with engraved moons, suns and fleur-de-lis, matching the card's filigree frame; the chain and card sway smoothly together like hanging in the wind (SMIL pendulum, eased, 7s loop). The first drawn SVG chain looked like a kid's drawing, so it was replaced with a real generated chain photo; the rusty iron version was replaced because it did not match the card style
 - Gap removed between Engineering Edge and Tech Stack cards on Saurav's order: the two line breaks between them in the README are gone, so the cards sit directly on top of each other
