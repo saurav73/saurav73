@@ -9,6 +9,7 @@ Dated history of changes to this profile page.
 - README: hero is now the illustrated Amon banner art, plus chibi Amon dance and walk GIFs, to match the liveliness of the reference profile
 - README: S-Rank Missions expanded from ToolNest-only to four projects on Saurav's order: GrihaMate, BookBridge and Poem Sansar (KavyaSetu) added
 - Amon character art now matches Saurav's own face (his photo, 2026-11-06): new portrait in the ID badge and amon-avatar.jpg, new pointing chibi in the footer, and a new chibi dance video whose frames play in the hero
+- Hero changed on Saurav's order: the dancing chibi is replaced by the animated Amon portrait (slow zoom, rotating golden rune rings, pulsing glow, glint sweep, 8s loop), same camera frame
 - README: rebuilt the profile the way Megha Mittal built hers (from her build guide): video hero with the chibi dance playing inside the SVG, tech orbit with real Simple Icons, holographic ID badge + dashboard with real GitHub numbers, pointing-character connect footer; all self-contained SVGs, no JavaScript
 - README: added a maintainer note recording the profile contents (About, one Featured Project, four Connect links, Daily Dev Quote widget), counted from the README
 - Re-verified the profile rules: Featured Projects contains only ToolNest, and there is no Content Creation section
@@ -95,3 +96,5 @@ Dated history of changes to this profile page.
 ## 2026-10-11
 - Added the Featured Projects section with live links
 - Added the portfolio site link to the About section
+- Profile rethemed from Amon to Klein Moretti (Lord of the Mysteries main character) on Saurav's order: new face-matched Klein portrait (hero, ID badge, klein-avatar.jpg), Klein pointing chibi (footer), Klein walk GIF, terminal/tagline/section titles/sign-off now Fool-themed
+- Klein portrait changed on Saurav's order to the throne version: hooded blue-and-gold robe, glowing golden orb, gothic throne, crescent moon, his face (replaces the top-hat portrait); then given more aura on his order: blazing orb, golden light rays and swirling energy ribbons, glowing particles, radiant cathedral light

@@ -1,33 +1,33 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/hero.svg?v=3" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, chibi Amon dancing in a camera viewfinder" width="100%"/>
+<img src="./assets/hero.svg?v=5" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
 
 <br/>
 
 <p>
-  <b>God of Error arc</b> · inspired by Amon from <i>Lord of the Mysteries</i> · monocle on, bugs beware
+  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · top hat on, gray fog beware
 </p>
 
 <p>
-  I am a <b>full-stack developer</b> who builds <b>scalable, practical, and efficient web applications</b>. Like Amon, I look at every error as a door, not a dead end.<br/>
+  I am a <b>full-stack developer</b> who builds <b>scalable, practical, and efficient web applications</b>. Like Klein, I look at every mystery as a door, not a dead end.<br/>
   My portfolio: <b><a href="https://saurabshrestha.com.np">saurabshrestha.com.np</a></b>
 </p>
 
 <br/>
 
-<!-- MY ERROR WAY -->
-<img src="./assets/error-way.svg?v=1" alt="My error way - what I build" width="100%"/>
+<!-- MY FOOL'S WAY -->
+<img src="./assets/fool-way.svg?v=1" alt="My Fool's way - what I build" width="100%"/>
 
 <br/><br/>
 
-<!-- ERROR ARSENAL -->
-<img src="./assets/stack.svg?v=1" alt="Error arsenal - tech stack orbit" width="100%"/>
+<!-- FOOL'S ARSENAL -->
+<img src="./assets/stack.svg?v=2" alt="Fool's arsenal - tech stack orbit" width="100%"/>
 
 <br/><br/>
 
-<!-- ERROR REGISTRATION + DASHBOARD -->
-<img src="./assets/id-dashboard.svg?v=1" alt="Error registration ID badge and dashboard" width="100%"/>
+<!-- FOOL'S REGISTRATION + DASHBOARD -->
+<img src="./assets/id-dashboard.svg?v=2" alt="Fool's registration ID badge and dashboard" width="100%"/>
 
 <br/>
 
@@ -45,7 +45,7 @@
 ## S-Rank Missions
 
 <table>
-<tr><th>Mission</th><th>What it is</th><th>Error arts used</th><th align="center">Stars</th></tr>
+<tr><th>Mission</th><th>What it is</th><th>Fool's arts used</th><th align="center">Stars</th></tr>
 <tr><td><a href="https://github.com/saurav73/ToolNest"><b>ToolNest</b></a></td><td>Free online tools: PDF, image, QR, text and developer utilities, free, no sign-up, runs in your browser (currently my main focus) · <a href="https://toolnest-sage.vercel.app">live site</a></td><td><code>React</code> <code>JavaScript</code></td><td align="center"><a href="https://github.com/saurav73/ToolNest/stargazers"><img src="https://img.shields.io/github/stars/saurav73/ToolNest?style=social" alt="ToolNest stars"/></a></td></tr>
 <tr><td><a href="https://github.com/saurav73/GrihaMate"><b>GrihaMate</b></a></td><td>Connects room seekers with landlords and their available rooms, with AI property search</td><td><code>React</code> <code>TypeScript</code> <code>Spring Boot</code></td><td align="center"><a href="https://github.com/saurav73/GrihaMate/stargazers"><img src="https://img.shields.io/github/stars/saurav73/GrihaMate?style=social" alt="GrihaMate stars"/></a></td></tr>
 <tr><td><a href="https://github.com/saurav73/BookBridge"><b>BookBridge</b></a></td><td>Book exchange for students: buy, sell and exchange second-hand books, with real-time chat</td><td><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code></td><td align="center"><a href="https://github.com/saurav73/BookBridge/stargazers"><img src="https://img.shields.io/github/stars/saurav73/BookBridge?style=social" alt="BookBridge stars"/></a></td></tr>
@@ -64,8 +64,8 @@
 
 <br/><br/>
 
-<!-- JOIN THE ERROR PATHWAY -->
-<img src="./assets/connect.svg?v=2" alt="Join the Error Pathway - Let's connect" width="100%"/>
+<!-- JOIN THE FOOL'S PATHWAY -->
+<img src="./assets/connect.svg?v=3" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/"><img src="https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/wayoverride/"><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
@@ -83,12 +83,12 @@
 
 <br/>
 
-<img src="./assets/chibi-walk.gif" alt="Chibi Amon walking with golden runes" width="160"/>
+<img src="./assets/chibi-walk.gif?v=2" alt="Chibi Klein walking in gray fog" width="160"/>
 
 <br/>
 
-**The error was never the end.**
+**The Fool was never the end.**
 
 </div>
 
-<!-- Maintainer note: profile contents are video hero (chibi dance inside hero.svg), About, Error Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are animated portrait hero (hero.svg: Klein Moretti portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
