@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- FOOL'S ARSENAL -->
-<img src="./assets/stack.svg?v=10" alt="Fool's arsenal - tech stack" width="100%"/>
+<img src="./assets/stack.svg?v=12" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 

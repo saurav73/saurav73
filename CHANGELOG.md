@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- Fool's Arsenal renamed to "Tech Stack" on Saurav's order (no more Fool name): heading is now "Tech Stack", subtitle "Languages, frameworks and tools I ship with"; each pill now also carries a tech descriptor (Java is Backend · JVM, Spring Boot is REST APIs & services, and so on)
 - Fool's Arsenal rebuilt to a clean grouped grid on Saurav's order (the scattered orbit looked bad): four columns (Backend, Frontend, Data, Tools) with real brand icons in gold for Java, Spring Boot, React, JavaScript, HTML5, CSS, MySQL, Git, GitHub and Vercel; GitHub and Vercel added to Tools
 - Fool's Way rewritten to smart and strong on Saurav's order: heading is now "Engineering Edge" (not "My Fool's Way"), and the lines show principles — architected for scale from day one, real-time by design, AI in production not demos
 - About card rewritten to tech content on Saurav's order: no more Klein Moretti, Sefirah Castle or Fool arc — now "Full-Stack Developer" with his stack (Java, Spring Boot, React, JavaScript, MySQL) and his own tech work; the gray fog background stays
