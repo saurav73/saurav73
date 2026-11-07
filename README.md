@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- FOOL'S REGISTRATION (ID BADGE) -->
-<img src="./assets/tarot-fool.jpg?v=1" alt="The Fool tarot card - Saurav Shrestha" width="320"/>
+<img src="./assets/tarot-hanging.svg?v=4" alt="The Fool tarot card hanging from an ornate antique gold chain - Saurav Shrestha" width="320"/>
 
 <br/>
 

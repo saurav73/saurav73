@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- Tarot card now hangs from a matching ornate antique gold chain on Saurav's order: a photorealistic gold-bronze chain with engraved moons, suns and fleur-de-lis, matching the card's filigree frame; the chain and card sway smoothly together like hanging in the wind (SMIL pendulum, eased, 7s loop). The first drawn SVG chain looked like a kid's drawing, so it was replaced with a real generated chain photo; the rusty iron version was replaced because it did not match the card style
 - Gap removed between Engineering Edge and Tech Stack cards on Saurav's order: the two line breaks between them in the README are gone, so the cards sit directly on top of each other
 - Fool's Arsenal renamed to "Tech Stack" on Saurav's order (no more Fool name): heading is now "Tech Stack", subtitle "Languages, frameworks and tools I ship with"; each pill now also carries a tech descriptor (Java is Backend · JVM, Spring Boot is REST APIs & services, and so on)
 - Fool's Arsenal rebuilt to a clean grouped grid on Saurav's order (the scattered orbit looked bad): four columns (Backend, Frontend, Data, Tools) with real brand icons in gold for Java, Spring Boot, React, JavaScript, HTML5, CSS, MySQL, Git, GitHub and Vercel; GitHub and Vercel added to Tools
