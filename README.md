@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://saurabshrestha.com.np">
-<img src="./assets/about.svg?v=2" alt="Full-Stack Developer - Java, Spring Boot, React, JavaScript, MySQL. I am a full-stack developer who builds scalable, practical, and efficient web applications. My portfolio: saurabshrestha.com.np" width="100%"/>
+<img src="./assets/about.svg?v=3" alt="Full-Stack Developer - Java, Spring Boot, React, JavaScript, MySQL. I am a full-stack developer who builds scalable, practical, and efficient web applications. My portfolio: saurabshrestha.com.np" width="100%"/>
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <!-- MY FOOL'S WAY -->
 <img src="./assets/fool-way.svg?v=10" alt="Engineering Edge - what I build" width="100%"/>
 <!-- TECH STACK -->
-<img src="./assets/stack.svg?v=12" alt="Tech stack" width="100%"/>
+<img src="./assets/stack.svg?v=13" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
