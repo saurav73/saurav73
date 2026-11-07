@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- My Fool's Way redesigned on Saurav's order (it looked too plain): double gold border, gold diamond corner ornaments, gold glow, the three points joined by a Fool's pathway line, and a proper Sefirah diamond emblem with concentric rings on the right instead of the empty circles
 - Title added above the Fool tarot card on Saurav's order: THE FOOL written in ornate gold Gothic Blasphemous lettering with filigree and thorns (assets/fool-title.jpg), above the card; the card itself is unchanged
 - THEME changed on Saurav's order to dark ancient, like the Fool tarot card: the whole profile is now near-black warm brown with antique gold, parchment text and crimson danger accents; the custom SVGs (hero, Fool's Way, Fool's Arsenal, Connect) are dark-only now, no light mode and no prefers-color-scheme; the stats, top-langs, streak, quote and contribution village are all dark too (village switched to the night variant)
 - ID badge replaced on Saurav's order with a generated full-illustration tarot card (assets/tarot-fool.jpg): the Paragon reference's seated posture (one hand to the temple, other hand resting, legs crossed, leaning back in the ornate throne), his own face matched to his photo, full body head to feet (not zoomed in), card straight not tilted, dark baroque style with carved bronze-gold filigree, gray fog and red rim glow; SAURAV SHRESTHA in bold white and FULL-STACK DEVELOPER in gold above the THE FOOL plate, 0 at the top; the hand-drawn SVG badge (id-badge.svg) is removed

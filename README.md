@@ -19,7 +19,7 @@
 <br/>
 
 <!-- MY FOOL'S WAY -->
-<img src="./assets/fool-way.svg?v=6" alt="My Fool's way - what I build" width="100%"/>
+<img src="./assets/fool-way.svg?v=7" alt="My Fool's way - what I build" width="100%"/>
 
 <br/><br/>
 
