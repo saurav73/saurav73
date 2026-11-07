@@ -13,19 +13,19 @@
 </linearGradient>
 <clipPath id="id-cardclip"><rect x="90" y="82" width="220" height="340" rx="14"/></clipPath>
 </defs>
-<rect width="400" height="460" fill="#0C1430"/>
+<rect width="400" height="460" fill="#232830"/>
 <rect x="1" y="1" width="398" height="478" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="16"/>
 <g transform="translate(0 24)">
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 -420;0 0" keyTimes="0;1" dur="0.7s" begin="0s" fill="both" additive="sum"/>
 <animateTransform attributeName="transform" type="rotate" values="-4 200 10;4 200 10;-4 200 10" keyTimes="0;0.5;1" dur="3.4s" begin="0.7s" repeatCount="indefinite" additive="sum"/>
-<rect x="168" y="0" width="16" height="70" fill="#131C3D" stroke="#D4A017" stroke-opacity="0.4"/>
-<rect x="216" y="0" width="16" height="70" fill="#131C3D" stroke="#D4A017" stroke-opacity="0.4"/>
+<rect x="168" y="0" width="16" height="70" fill="#2E333F" stroke="#D4A017" stroke-opacity="0.4"/>
+<rect x="216" y="0" width="16" height="70" fill="#2E333F" stroke="#D4A017" stroke-opacity="0.4"/>
 <text x="176" y="52" font-family="SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1" fill="#D4A017" transform="rotate(-90 176 68)">FOOL'S PATH</text>
 <rect x="156" y="70" width="88" height="20" rx="5" fill="url(#id-gold)"/>
-<circle cx="200" cy="96" r="6" fill="#0C1430" stroke="#D4A017" stroke-width="2"/>
-<rect x="90" y="82" width="220" height="340" rx="14" fill="#131C3D" stroke="#D4A017" stroke-width="2"/>
-<rect x="90" y="82" width="220" height="340" rx="14" fill="none" stroke="#0C1430" stroke-width="0"/>
+<circle cx="200" cy="96" r="6" fill="#232830" stroke="#D4A017" stroke-width="2"/>
+<rect x="90" y="82" width="220" height="340" rx="14" fill="#2E333F" stroke="#D4A017" stroke-width="2"/>
+<rect x="90" y="82" width="220" height="340" rx="14" fill="none" stroke="#232830" stroke-width="0"/>
 <g clip-path="url(#id-cardclip)">
 <rect x="-160" y="82" width="120" height="340" fill="url(#id-foil)" transform="skewX(-18)"><animate attributeName="x" values="-160;360" keyTimes="0;1" dur="3.5s" begin="0.9s" repeatCount="indefinite"/></rect>
 </g>
@@ -34,12 +34,12 @@
 <text x="200" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F6FC" text-anchor="middle">SAURAV SHRESTHA</text>
 <text x="200" y="336" font-family="SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2" fill="#D4A017" text-anchor="middle">FULL-STACK DEVELOPER</text>
 <rect x="110" y="352" width="30" height="22" rx="4" fill="url(#id-gold)"/>
-<rect x="116" y="357" width="18" height="2" fill="#0C1430"/>
-<rect x="116" y="363" width="18" height="2" fill="#0C1430"/>
-<rect x="116" y="369" width="10" height="2" fill="#0C1430"/>
+<rect x="116" y="357" width="18" height="2" fill="#232830"/>
+<rect x="116" y="363" width="18" height="2" fill="#232830"/>
+<rect x="116" y="369" width="10" height="2" fill="#232830"/>
 <rect x="152" y="352" width="3" height="24" fill="#F0F6FC"/><rect x="158" y="352" width="2" height="24" fill="#D4A017"/><rect x="163" y="352" width="5" height="24" fill="#D4A017"/><rect x="171" y="352" width="2" height="24" fill="#F0F6FC"/><rect x="176" y="352" width="3" height="24" fill="#D4A017"/><rect x="182" y="352" width="4" height="24" fill="#D4A017"/><rect x="189" y="352" width="2" height="24" fill="#F0F6FC"/><rect x="194" y="352" width="2" height="24" fill="#D4A017"/><rect x="199" y="352" width="5" height="24" fill="#D4A017"/><rect x="207" y="352" width="3" height="24" fill="#F0F6FC"/><rect x="213" y="352" width="2" height="24" fill="#D4A017"/><rect x="218" y="352" width="4" height="24" fill="#D4A017"/><rect x="225" y="352" width="3" height="24" fill="#F0F6FC"/><rect x="231" y="352" width="2" height="24" fill="#D4A017"/><rect x="236" y="352" width="5" height="24" fill="#D4A017"/><rect x="244" y="352" width="2" height="24" fill="#F0F6FC"/><rect x="249" y="352" width="3" height="24" fill="#D4A017"/><rect x="255" y="352" width="4" height="24" fill="#D4A017"/>
-<text x="200" y="398" font-family="SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2" fill="#93A1C0" text-anchor="middle">FOOL'S PATHWAY &#183; NEPAL</text>
-<text x="200" y="412" font-family="SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2" fill="#93A1C0" text-anchor="middle">ID FOOL-001</text>
+<text x="200" y="398" font-family="SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">FOOL'S PATHWAY &#183; NEPAL</text>
+<text x="200" y="412" font-family="SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">ID FOOL-001</text>
 </g>
 </g>
 </svg>
