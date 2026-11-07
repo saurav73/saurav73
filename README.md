@@ -15,10 +15,7 @@
 
 <!-- MY FOOL'S WAY -->
 <img src="./assets/fool-way.svg?v=10" alt="Engineering Edge - what I build" width="100%"/>
-
-<br/><br/>
-
-<!-- FOOL'S ARSENAL -->
+<!-- TECH STACK -->
 <img src="./assets/stack.svg?v=12" alt="Tech stack" width="100%"/>
 
 <br/><br/>
