@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/hero.svg?v=9" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
+<img src="./assets/hero.svg?v=10" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaurav73&query=public_repos&label=REPOS&color=D4A017&labelColor=0C1430&style=for-the-badge" alt="Repos, live from GitHub"/>
+  <img src="https://img.shields.io/github/followers/saurav73?color=D4A017&labelColor=0C1430&label=FOLLOWERS&style=for-the-badge" alt="Followers, live from GitHub"/>
+  <img src="https://img.shields.io/badge/MISSIONS-4-D4A017?style=for-the-badge&labelColor=0C1430" alt="Missions"/>
+  <img src="https://img.shields.io/badge/NEPAL-NPL-D4A017?style=for-the-badge&labelColor=0C1430" alt="Nepal"/>
+</p>
 
 <br/>
 
@@ -26,8 +33,8 @@
 
 <br/><br/>
 
-<!-- FOOL'S REGISTRATION + DASHBOARD -->
-<img src="./assets/id-dashboard.svg?v=6" alt="Fool's registration ID badge and dashboard" width="100%"/>
+<!-- FOOL'S REGISTRATION (ID BADGE) -->
+<img src="./assets/id-badge.svg?v=1" alt="Fool's registration ID badge" width="320"/>
 
 <br/>
 
@@ -91,4 +98,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are tall portrait hero (hero.svg: full Klein Moretti mysterious throne portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats (numbers updated daily from the GitHub API by scripts/update_profile_stats.py), four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are tall portrait hero (hero.svg: full Klein Moretti mysterious throne portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge (id-badge.svg), live badges (repos and followers drawn fresh from the GitHub API on every view), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
