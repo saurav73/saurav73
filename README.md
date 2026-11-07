@@ -29,7 +29,7 @@
 <br/><br/>
 
 <!-- FOOL'S REGISTRATION (ID BADGE) -->
-<img src="./assets/id-badge.svg?v=4" alt="The Fool tarot card - Saurav Shrestha" width="320"/>
+<img src="./assets/tarot-fool.jpg?v=1" alt="The Fool tarot card - Saurav Shrestha" width="320"/>
 
 <br/>
 
@@ -93,4 +93,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are a live hero served from profile-hero-saurav73s-projects.vercel.app/api/hero (template assets/hero-template.svg; the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them), About, Fool's Way, Tech Orbit (stack.svg), the Fool tarot card (id-badge.svg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. THEME: every custom SVG is ONE adaptive file whose own CSS switches between the light cloud fog and the dark fog with prefers-color-scheme, so there is only one image per section and nothing can ever show twice; the stats, streak, quote and village are third-party images that cannot adapt in one file, so they stay light. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are a live hero served from profile-hero-saurav73s-projects.vercel.app/api/hero (template assets/hero-template.svg; the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them), About, Fool's Way, Tech Orbit (stack.svg), the Fool tarot card (tarot-fool.jpg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. THEME: every custom SVG is ONE adaptive file whose own CSS switches between the light cloud fog and the dark fog with prefers-color-scheme, so there is only one image per section and nothing can ever show twice; the stats, streak, quote and village are third-party images that cannot adapt in one file, so they stay light. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
