@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
-  <rect width="1200" height="260" fill="#D8DDE4"/>
+<style>
+.fw-bg{fill:#D8DDE4}
+.fw-title{fill:#8A6D00}
+.fw-text{fill:#333A48}
+@media (prefers-color-scheme:dark){.fw-bg{fill:#232830}.fw-title{fill:#D4A017}.fw-text{fill:#E6EDF3}}
+</style>
+  <rect width="1200" height="260" class="fw-bg"/>
   <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="12"/>
-  <text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#8A6D00">My Fool's Way</text>
+  <text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" class="fw-title">My Fool's Way</text>
   <rect x="70" y="88" width="220" height="3" fill="#D4A017"/>
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#333A48">
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" class="fw-text">
     <rect x="70" y="128" width="10" height="10" transform="rotate(45 75 133)" fill="#D4A017"/>
     <text x="100" y="140">Scalable web apps, built to last</text>
     <rect x="70" y="168" width="10" height="10" transform="rotate(45 75 173)" fill="#D4A017"/>

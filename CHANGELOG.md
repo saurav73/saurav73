@@ -3,6 +3,9 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- FIXED on Saurav's report (two hero cards showing, role text overlapping): the two-image dark/light trick is gone; every custom SVG is now ONE adaptive file whose own CSS switches between the light cloud fog and the dark fog with prefers-color-scheme, so there is only one image per section and nothing can ever show twice; the stats, streak, quote and village are third-party images that cannot adapt in one file, so they stay light
+- Role text fixed: the cycling roles are gone, "Full-Stack Developer" is now one clean static line, nothing overlaps it
+- ID badge rebuilt as a Lord of the Mysteries tarot card in the Blasphemous manner on Saurav's order (from his Paragon reference): ornate gold filigree scrolls in all four corners, layered gold frame, top crest with 0, the realistic portrait large in a double gold frame with corner brackets, SAURAV SHRESTHA, FULL-STACK DEVELOPER, a dark name plate reading THE FOOL, FOOL'S PATHWAY · NEPAL · ID FOOL-001; lanyard, swing and barcode removed
 - Theme now follows the viewer's GitHub mode on Saurav's order: every themed image has a dark and a light version, shown by GitHub with #gh-dark-mode-only / #gh-light-mode-only (dark = fog charcoal-gray, light = cloud fog); the hero endpoint takes ?theme=dark, the stats, streak, quote and village all have dark and light versions
 - Main image remade on Saurav's order to be more realistic and face-matching: a realistic young man with his own face, same Sefirah Castle scene (stone throne, hands over his mouth, dark suit and long coat, gray fog); the same image is in the ID badge
 - Hero tagline is now the Fool's code, like his honorific name: "The Fool who does not belong to this era, the mysterious ruler of the gray fog, the builder who turns errors into working code." (three lines under the number chips)
