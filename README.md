@@ -24,7 +24,6 @@
 <br/><br/>
 
 <!-- FOOL'S REGISTRATION (ID BADGE) -->
-<img src="./assets/fool-title.jpg?v=1" alt="The Fool" width="560"/>
 <img src="./assets/tarot-fool.jpg?v=1" alt="The Fool tarot card - Saurav Shrestha" width="320"/>
 
 <br/>

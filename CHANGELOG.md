@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- THE FOOL title banner above the tarot card removed on Saurav's order; the tarot card itself stays
 - S-Rank Missions turned into a fog card on Saurav's order (the plain table had no fog): now a designed card (assets/missions.svg) with the same real gray fog background, gold border and diamonds, all four missions on it; the repo links stay clickable in a row under the card (the star badges went with the old table)
 - Gray fog applied to all profile sections on Saurav's order: the hero, Fool's Way, Fool's Arsenal (stack) and Connect now all use the same real dense swirling gray fog background as the About card
 - About section redesigned on Saurav's order (the plain text looked bad): now a designed card (assets/about.svg) in the dark ancient style with a real dense swirling gray fog background like the Sefirah Castle reference, gold border and corner diamonds; the whole card links to his portfolio so the portfolio link still works
