@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
 <style>
-.fw-bg{fill:#D8DDE4}
-.fw-title{fill:#8A6D00}
-.fw-text{fill:#333A48}
-@media (prefers-color-scheme:dark){.fw-bg{fill:#232830}.fw-title{fill:#D4A017}.fw-text{fill:#E6EDF3}}
+.fw-bg{fill:#14100B}
+.fw-title{fill:#D4A017}
+.fw-text{fill:#EDE0B8}
 </style>
   <rect width="1200" height="260" class="fw-bg"/>
   <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#D4A017" stroke-opacity="0.35" stroke-width="2" rx="12"/>

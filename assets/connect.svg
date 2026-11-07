@@ -2,13 +2,12 @@
 <title>Join the Fool's Pathway - Connect</title>
 <desc>Chibi Klein points at link cards for LinkedIn, Instagram, GitHub and TikTok.</desc>
 <style>
-.cn-bg{fill:#D8DDE4}
-.cn-tile{fill:#232830;opacity:1}
-.cn-title{fill:#1E2431}
-.cn-card{fill:#F2F4F7}
-.cn-cardst{stroke:#B7BFCB}
-.cn-sub{fill:#5C6675}
-@media (prefers-color-scheme:dark){.cn-bg{fill:#232830}.cn-tile{opacity:0}.cn-title{fill:#F0F6FC}.cn-card{fill:#2E333F}.cn-cardst{stroke:#3D4450}.cn-sub{fill:#9AA3B2}}
+.cn-bg{fill:#14100B}
+.cn-tile{fill:#1E1A14;opacity:1}
+.cn-title{fill:#EDE0B8}
+.cn-card{fill:#1E1A14}
+.cn-cardst{stroke:#8A6D3B}
+.cn-sub{fill:#9A8F7A}
 </style>
 <defs>
 <clipPath id="connect-char"><rect x="30" y="10" width="120" height="240" rx="14"/></clipPath>

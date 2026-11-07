@@ -19,12 +19,12 @@
 <br/>
 
 <!-- MY FOOL'S WAY -->
-<img src="./assets/fool-way.svg?v=5" alt="My Fool's way - what I build" width="100%"/>
+<img src="./assets/fool-way.svg?v=6" alt="My Fool's way - what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- FOOL'S ARSENAL -->
-<img src="./assets/stack.svg?v=6" alt="Fool's arsenal - tech stack orbit" width="100%"/>
+<img src="./assets/stack.svg?v=7" alt="Fool's arsenal - tech stack orbit" width="100%"/>
 
 <br/><br/>
 
@@ -33,12 +33,12 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&title_color=8A6D00&icon_color=8A6D00&text_color=333A48&bg_color=D8DDE4&border_color=B7BFCB" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&layout=compact&title_color=8A6D00&text_color=333A48&bg_color=D8DDE4&border_color=B7BFCB" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&title_color=D4A017&icon_color=D4A017&text_color=EDE0B8&bg_color=0D0B08&border_color=8A6D3B" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&layout=compact&title_color=D4A017&text_color=EDE0B8&bg_color=0D0B08&border_color=8A6D3B" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav73&ring=8A6D00&fire=8A6D00&currStreakLabel=8A6D00&background=D8DDE4&border=B7BFCB" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav73&ring=D4A017&fire=C0392B&currStreakNum=EDE0B8&sideNums=EDE0B8&currStreakLabel=D4A017&sideLabels=EDE0B8&dates=9A8F7A&background=0D0B08&border=8A6D3B" alt="GitHub streak" />
 
 <br/><br/>
 
@@ -62,12 +62,12 @@
 
 *Every commit raises another building, rebuilt automatically every day.*
 
-<img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution village" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution village" width="100%"/>
 
 <br/><br/>
 
 <!-- JOIN THE FOOL'S PATHWAY -->
-<img src="./assets/connect.svg?v=7" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
+<img src="./assets/connect.svg?v=8" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/"><img src="https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/wayoverride/"><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
@@ -81,7 +81,7 @@
 <br/><br/>
 
 ### Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Daily dev quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily dev quote"/>
 
 <br/>
 
@@ -93,4 +93,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are a live hero served from profile-hero-saurav73s-projects.vercel.app/api/hero (template assets/hero-template.svg; the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them), About, Fool's Way, Tech Orbit (stack.svg), the Fool tarot card (tarot-fool.jpg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. THEME: every custom SVG is ONE adaptive file whose own CSS switches between the light cloud fog and the dark fog with prefers-color-scheme, so there is only one image per section and nothing can ever show twice; the stats, streak, quote and village are third-party images that cannot adapt in one file, so they stay light. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are a live hero served from profile-hero-saurav73s-projects.vercel.app/api/hero (template assets/hero-template.svg; the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them), About, Fool's Way, Tech Orbit (stack.svg), the Fool tarot card (tarot-fool.jpg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. THEME: dark ancient, like the Fool tarot card — near-black warm brown backgrounds, antique gold, parchment text, crimson danger accents; every custom SVG is dark-only (no light mode, no prefers-color-scheme); the stats, streak, quote and village are dark third-party images. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->

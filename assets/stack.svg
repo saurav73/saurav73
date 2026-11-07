@@ -2,12 +2,11 @@
 <title>Fool's Arsenal - Tech Stack</title>
 <desc>Tech icons from the Simple Icons set ride three tilted orbits around a glowing gold Fool's core, above a grouped chip grid.</desc>
 <style>
-.st-bg{fill:#D8DDE4}
-.st-title{fill:#1E2431}
-.st-sub{fill:#5C6675}
-.st-gold{fill:#8A6D00}
-.st-chip{fill:#F2F4F7}
-@media (prefers-color-scheme:dark){.st-bg{fill:#232830}.st-title{fill:#F0F6FC}.st-sub{fill:#9AA3B2}.st-gold{fill:#D4A017}.st-chip{fill:#2E333F}}
+.st-bg{fill:#14100B}
+.st-title{fill:#EDE0B8}
+.st-sub{fill:#9A8F7A}
+.st-gold{fill:#D4A017}
+.st-chip{fill:#1E1A14}
 </style>
 <defs>
 <radialGradient id="stack-coreglow" cx="0.5" cy="0.5" r="0.5">

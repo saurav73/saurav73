@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Saurav Shrestha - Full-Stack Developer">
 <style>
-.h-bgt{stop-color:#E9EDF2}.h-bgb{stop-color:#C6CCD6}.h-g1{stop-color:#C9A227}.h-g2{stop-color:#B8860B}.h-g3{stop-color:#8A6D00}.h-text{fill:#1E2431}.h-muted{fill:#5C6675}.h-goldtext{fill:#8A6D00}.h-green{fill:#1F7A33}.h-blue{fill:#4A7FD4}.h-chipfill{fill:#F2F4F7}.h-chipstroke{stroke:#B7BFCB}.h-track{fill:#B7BFCB}.h-w1{fill:#FFFFFF;opacity:.28}.h-w2{fill:#FFFFFF;opacity:.22}
-@media (prefers-color-scheme:dark){.h-bgt{stop-color:#2E333F}.h-bgb{stop-color:#1E222B}.h-g1{stop-color:#F5C542}.h-g2{stop-color:#D4A017}.h-g3{stop-color:#F0A92E}.h-text{fill:#F0F6FC}.h-muted{fill:#9AA3B2}.h-goldtext{fill:#D4A017}.h-green{fill:#3FB950}.h-blue{fill:#8FB4E3}.h-chipfill{fill:#1F242C}.h-chipstroke{stroke:#3D4450}.h-track{fill:#3D4450}.h-w1{fill:#C9D1D9;opacity:.06}.h-w2{fill:#C9D1D9;opacity:.05}}
+.h-bgt{stop-color:#1A1510}.h-bgb{stop-color:#0D0B08}.h-g1{stop-color:#F5C542}.h-g2{stop-color:#D4A017}.h-g3{stop-color:#B8860B}.h-text{fill:#EDE0B8}.h-muted{fill:#9A8F7A}.h-goldtext{fill:#D4A017}.h-green{fill:#C0392B}.h-blue{fill:#C0392B}.h-chipfill{fill:#1E1A14}.h-chipstroke{stroke:#8A6D3B}.h-track{fill:#8A6D3B}.h-w1{fill:#C9B896;opacity:.07}.h-w2{fill:#C9B896;opacity:.05}
 </style>
 <title>Saurav Shrestha - Full-Stack Developer</title>
 <desc>Animated hero: full Klein Moretti throne portrait with slow zoom, rotating golden rune rings, pulsing glow and glint sweep, inside a tall camera viewfinder beside Saurav's name, cycling roles and live GitHub counts served fresh on every view.</desc>
