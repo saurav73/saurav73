@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/hero.svg?v=8" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
+<img src="./assets/hero.svg?v=9" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
 
 <br/>
 
 <p>
-  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · tarot on the table, gray fog beware
+  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · orb in hand, gray fog beware
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 <br/><br/>
 
 <!-- FOOL'S REGISTRATION + DASHBOARD -->
-<img src="./assets/id-dashboard.svg?v=5" alt="Fool's registration ID badge and dashboard" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=6" alt="Fool's registration ID badge and dashboard" width="100%"/>
 
 <br/>
 
@@ -91,4 +91,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are tall portrait hero (hero.svg: full Klein Moretti Sefirah Castle portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats (numbers updated daily from the GitHub API by scripts/update_profile_stats.py), four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are tall portrait hero (hero.svg: full Klein Moretti mysterious throne portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge + Dashboard (id-dashboard.svg), live stats (numbers updated daily from the GitHub API by scripts/update_profile_stats.py), four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
