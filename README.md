@@ -40,15 +40,13 @@
 
 </div>
 
-## S-Rank Missions
+<img src="./assets/missions.svg?v=1" alt="S-Rank Missions - ToolNest, GrihaMate, BookBridge, Poem Sansar" width="100%"/>
 
-<table>
-<tr><th>Mission</th><th>What it is</th><th>Fool's arts used</th><th align="center">Stars</th></tr>
-<tr><td><a href="https://github.com/saurav73/ToolNest"><b>ToolNest</b></a></td><td>Free online tools: PDF, image, QR, text and developer utilities, free, no sign-up, runs in your browser (currently my main focus) · <a href="https://toolnest-sage.vercel.app">live site</a></td><td><code>React</code> <code>JavaScript</code></td><td align="center"><a href="https://github.com/saurav73/ToolNest/stargazers"><img src="https://img.shields.io/github/stars/saurav73/ToolNest?style=social" alt="ToolNest stars"/></a></td></tr>
-<tr><td><a href="https://github.com/saurav73/GrihaMate"><b>GrihaMate</b></a></td><td>Connects room seekers with landlords and their available rooms, with AI property search</td><td><code>React</code> <code>TypeScript</code> <code>Spring Boot</code></td><td align="center"><a href="https://github.com/saurav73/GrihaMate/stargazers"><img src="https://img.shields.io/github/stars/saurav73/GrihaMate?style=social" alt="GrihaMate stars"/></a></td></tr>
-<tr><td><a href="https://github.com/saurav73/BookBridge"><b>BookBridge</b></a></td><td>Book exchange for students: buy, sell and exchange second-hand books, with real-time chat</td><td><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code></td><td align="center"><a href="https://github.com/saurav73/BookBridge/stargazers"><img src="https://img.shields.io/github/stars/saurav73/BookBridge?style=social" alt="BookBridge stars"/></a></td></tr>
-<tr><td><a href="https://github.com/saurav73/KavyaSetu"><b>Poem Sansar</b></a></td><td>Poem sharing (KavyaSetu): poets publish poems, keep drafts private, browse the public feed</td><td><code>PHP</code> <code>Laravel</code></td><td align="center"><a href="https://github.com/saurav73/KavyaSetu/stargazers"><img src="https://img.shields.io/github/stars/saurav73/KavyaSetu?style=social" alt="Poem Sansar stars"/></a></td></tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/saurav73/ToolNest"><b>ToolNest</b></a> · <a href="https://github.com/saurav73/GrihaMate"><b>GrihaMate</b></a> · <a href="https://github.com/saurav73/BookBridge"><b>BookBridge</b></a> · <a href="https://github.com/saurav73/KavyaSetu"><b>Poem Sansar</b></a>
+
+</div>
 
 <div align="center">
 
