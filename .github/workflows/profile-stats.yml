@@ -1,0 +1,28 @@
+name: Update profile stats
+
+# Keeps the numbers in hero.svg and id-dashboard.svg in sync with the live
+# GitHub API. Schedule + manual dispatch only, never on push, so a stats
+# commit can never trigger itself.
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Update SVGs from the GitHub API
+        run: python3 scripts/update_profile_stats.py
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update profile stats from GitHub API" && git push)
