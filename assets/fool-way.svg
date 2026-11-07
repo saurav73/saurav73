@@ -16,17 +16,17 @@
 <rect x="22" y="228" width="10" height="10" transform="rotate(45 27 233)"/>
 <rect x="1168" y="228" width="10" height="10" transform="rotate(45 1173 233)"/>
 </g>
-<text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" class="fw-title">My Fool's Way</text>
+<text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" class="fw-title">Engineering Edge</text>
 <rect x="70" y="88" width="220" height="3" fill="#D4A017"/>
 <rect x="298" y="88" width="12" height="3" fill="#C0392B"/>
 <line x1="75" y1="133" x2="75" y2="213" stroke="#D4A017" stroke-opacity="0.45" stroke-width="2"/>
 <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" class="fw-text">
 <rect x="70" y="128" width="10" height="10" transform="rotate(45 75 133)" fill="#D4A017"/>
-<text x="100" y="140">Scalable web apps, built to last</text>
+<text x="100" y="140">Spring Boot + React, architected for scale from day one</text>
 <rect x="70" y="168" width="10" height="10" transform="rotate(45 75 173)" fill="#D4A017"/>
-<text x="100" y="180">Clean architecture and system design</text>
+<text x="100" y="180">Real-time by design: WebSockets and live data, not an afterthought</text>
 <rect x="70" y="208" width="10" height="10" transform="rotate(45 75 213)" fill="#D4A017"/>
-<text x="100" y="220">AI integration in real products</text>
+<text x="100" y="220">AI in production: LLM features shipped in live products, not demos</text>
 </g>
 <g transform="translate(1080 130)">
 <circle r="74" fill="none" stroke="#D4A017" stroke-opacity="0.55" stroke-width="1.5"/>
