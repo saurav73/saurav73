@@ -14,12 +14,12 @@
 <br/>
 
 <!-- MY FOOL'S WAY -->
-<img src="./assets/fool-way.svg?v=7" alt="My Fool's way - what I build" width="100%"/>
+<img src="./assets/fool-way.svg?v=8" alt="My Fool's way - what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- FOOL'S ARSENAL -->
-<img src="./assets/stack.svg?v=7" alt="Fool's arsenal - tech stack orbit" width="100%"/>
+<img src="./assets/stack.svg?v=8" alt="Fool's arsenal - tech stack orbit" width="100%"/>
 
 <br/><br/>
 
@@ -63,7 +63,7 @@
 <br/><br/>
 
 <!-- JOIN THE FOOL'S PATHWAY -->
-<img src="./assets/connect.svg?v=8" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
+<img src="./assets/connect.svg?v=9" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/"><img src="https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/wayoverride/"><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>

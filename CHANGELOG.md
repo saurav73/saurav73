@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- Gray fog applied to all profile sections on Saurav's order: the hero, Fool's Way, Fool's Arsenal (stack) and Connect now all use the same real dense swirling gray fog background as the About card
 - About section redesigned on Saurav's order (the plain text looked bad): now a designed card (assets/about.svg) in the dark ancient style with a real dense swirling gray fog background like the Sefirah Castle reference, gold border and corner diamonds; the whole card links to his portfolio so the portfolio link still works
 - My Fool's Way redesigned on Saurav's order (it looked too plain): double gold border, gold diamond corner ornaments, gold glow, the three points joined by a Fool's pathway line, and a proper Sefirah diamond emblem with concentric rings on the right instead of the empty circles
 - Title added above the Fool tarot card on Saurav's order: THE FOOL written in ornate gold Gothic Blasphemous lettering with filigree and thorns (assets/fool-title.jpg), above the card; the card itself is unchanged
