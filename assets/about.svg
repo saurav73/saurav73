@@ -16,16 +16,14 @@
 <rect x="22" y="228" width="10" height="10" transform="rotate(45 27 233)"/>
 <rect x="1168" y="228" width="10" height="10" transform="rotate(45 1173 233)"/>
 </g>
-<text x="70" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" class="ab-gold">The Fool arc</text>
-<text x="70" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" class="ab-text">
-<tspan>Klein Moretti from </tspan><tspan font-style="italic">Lord of the Mysteries</tspan><tspan> · Sefirah Castle, gray fog beware</tspan>
-</text>
+<text x="70" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" class="ab-gold">Full-Stack Developer</text>
+<text x="70" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" class="ab-text">Java · Spring Boot · React · JavaScript · MySQL</text>
 <rect x="70" y="108" width="300" height="2" fill="#D4A017"/>
 <rect x="370" y="108" width="12" height="2" fill="#C0392B"/>
 <text x="70" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" class="ab-text">
 <tspan>I am a </tspan><tspan font-weight="700">full-stack developer</tspan><tspan> who builds </tspan><tspan font-weight="700">scalable, practical, and efficient web applications</tspan><tspan>.</tspan>
 </text>
-<text x="70" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" class="ab-text">Like Klein, I look at every mystery as a door, not a dead end.</text>
+<text x="70" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" class="ab-text">I turn ideas into fast, working products, one commit at a time.</text>
 <text x="70" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21">
 <tspan class="ab-text">My portfolio: </tspan><tspan font-weight="700" class="ab-gold">saurabshrestha.com.np</tspan>
 </text>

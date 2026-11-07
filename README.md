@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://saurabshrestha.com.np">
-<img src="./assets/about.svg?v=1" alt="The Fool arc - Klein Moretti from Lord of the Mysteries. I am a full-stack developer who builds scalable, practical, and efficient web applications. My portfolio: saurabshrestha.com.np" width="100%"/>
+<img src="./assets/about.svg?v=2" alt="Full-Stack Developer - Java, Spring Boot, React, JavaScript, MySQL. I am a full-stack developer who builds scalable, practical, and efficient web applications. My portfolio: saurabshrestha.com.np" width="100%"/>
 </a>
 
 <br/>
