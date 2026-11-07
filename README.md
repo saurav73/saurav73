@@ -7,14 +7,9 @@
 
 <br/>
 
-<p>
-  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · Sefirah Castle, gray fog beware
-</p>
-
-<p>
-  I am a <b>full-stack developer</b> who builds <b>scalable, practical, and efficient web applications</b>. Like Klein, I look at every mystery as a door, not a dead end.<br/>
-  My portfolio: <b><a href="https://saurabshrestha.com.np">saurabshrestha.com.np</a></b>
-</p>
+<a href="https://saurabshrestha.com.np">
+<img src="./assets/about.svg?v=1" alt="The Fool arc - Klein Moretti from Lord of the Mysteries. I am a full-stack developer who builds scalable, practical, and efficient web applications. My portfolio: saurabshrestha.com.np" width="100%"/>
+</a>
 
 <br/>
 

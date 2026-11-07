@@ -3,6 +3,7 @@
 Dated history of changes to this profile page.
 
 ## 2026-11-07
+- About section redesigned on Saurav's order (the plain text looked bad): now a designed card (assets/about.svg) in the dark ancient style with a real dense swirling gray fog background like the Sefirah Castle reference, gold border and corner diamonds; the whole card links to his portfolio so the portfolio link still works
 - My Fool's Way redesigned on Saurav's order (it looked too plain): double gold border, gold diamond corner ornaments, gold glow, the three points joined by a Fool's pathway line, and a proper Sefirah diamond emblem with concentric rings on the right instead of the empty circles
 - Title added above the Fool tarot card on Saurav's order: THE FOOL written in ornate gold Gothic Blasphemous lettering with filigree and thorns (assets/fool-title.jpg), above the card; the card itself is unchanged
 - THEME changed on Saurav's order to dark ancient, like the Fool tarot card: the whole profile is now near-black warm brown with antique gold, parchment text and crimson danger accents; the custom SVGs (hero, Fool's Way, Fool's Arsenal, Connect) are dark-only now, no light mode and no prefers-color-scheme; the stats, top-langs, streak, quote and contribution village are all dark too (village switched to the night variant)
