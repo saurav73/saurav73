@@ -1,19 +1,14 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="./assets/hero.svg?v=11" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti portrait in a camera viewfinder" width="100%"/>
+<img src="https://profile-hero-saurav73s-projects.vercel.app/api/hero" alt="Hi, I'm Saurav Shrestha - Full-Stack Developer, animated Klein Moretti Sefirah Castle portrait in a camera viewfinder, live repo and follower counts" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaurav73&query=public_repos&label=REPOS&color=D4A017&labelColor=232830&style=for-the-badge" alt="Repos, live from GitHub"/>
-  <img src="https://img.shields.io/github/followers/saurav73?color=D4A017&labelColor=232830&label=FOLLOWERS&style=for-the-badge" alt="Followers, live from GitHub"/>
-  <img src="https://img.shields.io/badge/MISSIONS-4-D4A017?style=for-the-badge&labelColor=232830" alt="Missions"/>
-  <img src="https://img.shields.io/badge/NEPAL-NPL-D4A017?style=for-the-badge&labelColor=232830" alt="Nepal"/>
-</p>
+
 
 <br/>
 
 <p>
-  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · orb in hand, gray fog beware
+  <b>The Fool arc</b> · Klein Moretti from <i>Lord of the Mysteries</i> · Sefirah Castle, gray fog beware
 </p>
 
 <p>
@@ -24,26 +19,26 @@
 <br/>
 
 <!-- MY FOOL'S WAY -->
-<img src="./assets/fool-way.svg?v=3" alt="My Fool's way - what I build" width="100%"/>
+<img src="./assets/fool-way.svg?v=4" alt="My Fool's way - what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- FOOL'S ARSENAL -->
-<img src="./assets/stack.svg?v=4" alt="Fool's arsenal - tech stack orbit" width="100%"/>
+<img src="./assets/stack.svg?v=5" alt="Fool's arsenal - tech stack orbit" width="100%"/>
 
 <br/><br/>
 
 <!-- FOOL'S REGISTRATION (ID BADGE) -->
-<img src="./assets/id-badge.svg?v=2" alt="Fool's registration ID badge" width="320"/>
+<img src="./assets/id-badge.svg?v=3" alt="Fool's registration ID badge" width="320"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=C9D1D9&bg_color=232830&border_color=3D4450" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&layout=compact&theme=dark&title_color=D4A017&text_color=C9D1D9&bg_color=232830&border_color=3D4450" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&title_color=8A6D00&icon_color=8A6D00&text_color=333A48&bg_color=D8DDE4&border_color=B7BFCB" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&layout=compact&title_color=8A6D00&text_color=333A48&bg_color=D8DDE4&border_color=B7BFCB" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav73&theme=dark&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&background=232830&border=3D4450" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav73&ring=8A6D00&fire=8A6D00&currStreakLabel=8A6D00&background=D8DDE4&border=B7BFCB" alt="GitHub streak" />
 
 <br/><br/>
 
@@ -72,7 +67,7 @@
 <br/><br/>
 
 <!-- JOIN THE FOOL'S PATHWAY -->
-<img src="./assets/connect.svg?v=5" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
+<img src="./assets/connect.svg?v=6" alt="Join the Fool's Pathway - Let's connect" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saurav-shrestha-182988251/"><img src="https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/wayoverride/"><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
@@ -86,7 +81,7 @@
 <br/><br/>
 
 ### Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily dev quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Daily dev quote"/>
 
 <br/>
 
@@ -98,4 +93,4 @@
 
 </div>
 
-<!-- Maintainer note: profile contents are tall portrait hero (hero.svg: full Klein Moretti mysterious throne portrait, slow zoom, rotating rune rings, glow pulse, glint sweep), About, Fool's Way, Tech Orbit (stack.svg), ID badge (id-badge.svg), live badges (repos and followers drawn fresh from the GitHub API on every view), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->
+<!-- Maintainer note: profile contents are a live hero served from profile-hero-saurav73s-projects.vercel.app/api/hero (template assets/hero-template.svg: Klein Moretti Sefirah Castle portrait, slow zoom, rotating rune rings, glow pulse, glint sweep; the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them), About, Fool's Way, Tech Orbit (stack.svg), ID badge (id-badge.svg), live stats, four S-Rank Missions (ToolNest, GrihaMate, BookBridge, Poem Sansar/KavyaSetu), 3D contribution village, Connect footer (connect.svg), Connect badges, visitor counter, Daily Dev Quote, chibi walk GIF, sign-off. Theme is light cloud fog like the gray fog of Sefirah Castle. S-Rank Missions are those four only; no Content Creation section; calculator projects never shown. -->

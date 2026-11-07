@@ -2,6 +2,12 @@
 
 Dated history of changes to this profile page.
 
+## 2026-11-07
+- Hero is now served live from profile-hero.vercel.app/api/hero (template assets/hero-template.svg): the endpoint draws repos and followers fresh from the GitHub API on every view and fills them into the hero chips, so the numbers are never baked in and nobody updates them; the shields badges row under the hero is removed
+- Main image changed on Saurav's order to the Sefirah Castle portrait, like his reference: Klein seated on the stone throne, hands over his mouth, dark suit and long coat, gray fog everywhere; the same image is in the ID badge
+- Theme changed on Saurav's order to light cloud fog like the gray fog of Sefirah Castle: light mist-gray backgrounds, near-white cards, dark slate text, dark gold accents; stats cards, streak card and quote card recolored to match
+
+
 
 
 ## 2026-11-06
