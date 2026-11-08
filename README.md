@@ -22,8 +22,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurav73&show_icons=true&title_color=D4A017&icon_color=D4A017&text_color=EDE0B8&bg_color=0D0B08&border_color=8A6D3B" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav73&layout=compact&title_color=D4A017&text_color=EDE0B8&bg_color=0D0B08&border_color=8A6D3B" alt="Most used languages" />
+<img src="https://profile-hero-saurav73s-projects.vercel.app/api/stats?card=stats" alt="GitHub stats" />
+<img src="https://profile-hero-saurav73s-projects.vercel.app/api/stats?card=langs" alt="Most used languages" />
 
 <br/>
 
